@@ -1,5 +1,5 @@
 # intforbusiness
-This is the example code from the book The Internet for Entrepreneurs (&copy; 2019 True Anomaly LLC) and associated documentation.
+This is the example code from the book All That Internet Crap (&copy; 2020 True Anomaly LLC) and associated documentation.
 
 # Chapter 2
 In this chapter we learned about HTML and CSS. The code here consists of a single HTML file, called index.html, and a CSS file, called style.css that are linked with a link tag. 
